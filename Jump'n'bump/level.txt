@@ -1,0 +1,7 @@
+3 
+0 300 100 100 brick_texture1887.jpg
+100 210 100 100 brick_texture1887.jpg
+0 350 500 60 brick_texture1887.jpg
+2
+65 87 68 rabbit3.png
+72 85 75 rabbit4.png
